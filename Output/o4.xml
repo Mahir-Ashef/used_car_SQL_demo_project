@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Row>
+			<Cell><Data ss:Type="String">year</Data></Cell>
+			<Cell><Data ss:Type="String">SUM(selling_price)</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">1994</Data></Cell>
+			<Cell><Data ss:Type="Number">144000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1995</Data></Cell>
+			<Cell><Data ss:Type="Number">55000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1996</Data></Cell>
+			<Cell><Data ss:Type="Number">82000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1997</Data></Cell>
+			<Cell><Data ss:Type="Number">774999</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1998</Data></Cell>
+			<Cell><Data ss:Type="Number">521000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1999</Data></Cell>
+			<Cell><Data ss:Type="Number">1077000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2000</Data></Cell>
+			<Cell><Data ss:Type="Number">1226914</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2001</Data></Cell>
+			<Cell><Data ss:Type="Number">279000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2002</Data></Cell>
+			<Cell><Data ss:Type="Number">1971999</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2003</Data></Cell>
+			<Cell><Data ss:Type="Number">3758198</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2004</Data></Cell>
+			<Cell><Data ss:Type="Number">5579855</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2005</Data></Cell>
+			<Cell><Data ss:Type="Number">10925499</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2006</Data></Cell>
+			<Cell><Data ss:Type="Number">17387148</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2007</Data></Cell>
+			<Cell><Data ss:Type="Number">30985433</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2008</Data></Cell>
+			<Cell><Data ss:Type="Number">41317516</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2009</Data></Cell>
+			<Cell><Data ss:Type="Number">52854989</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2010</Data></Cell>
+			<Cell><Data ss:Type="Number">102753987</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2011</Data></Cell>
+			<Cell><Data ss:Type="Number">183594976</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2012</Data></Cell>
+			<Cell><Data ss:Type="Number">219301977</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">307723967</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">320338960</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">462496959</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">599471972</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2017</Data></Cell>
+			<Cell><Data ss:Type="Number">899094968</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2018</Data></Cell>
+			<Cell><Data ss:Type="Number">772295980</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2019</Data></Cell>
+			<Cell><Data ss:Type="Number">1035982984</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2020</Data></Cell>
+			<Cell><Data ss:Type="Number">65509997</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2021</Data></Cell>
+			<Cell><Data ss:Type="Number">8462000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2022</Data></Cell>
+			<Cell><Data ss:Type="Number">8001000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2023</Data></Cell>
+			<Cell><Data ss:Type="Number">11375000</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
